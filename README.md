@@ -9,7 +9,7 @@ Beer.js is about creating social spaces to strengthen software communities. Ther
 
 We want to socialize, have fun, and talk shop.
 
-Please note, BeerJS DC happens at a bar and will require valid photo identification (Drivers License, Passport, etc) to enter.  Don't forget yours!
+Please note, BeerJS Boise happens at a bar and will require valid photo identification (Drivers License, Passport, etc) to enter.  Don't forget yours!
 
 Want to join?
 -------------
