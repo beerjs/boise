@@ -1,8 +1,6 @@
 BeerJS Boise
 =========
 
-We're getting this started soon. A monthly happy hour is in the works! 
-
 BeerJS Boise is a welcoming get-together for everyone who wants to learn about JavaScript, advanced and beginners alike.
 
 Beer.js is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.
